@@ -1,0 +1,26 @@
+* {
+    font-size: 20px;
+}
+div {
+    margin: 20px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+/* #productMenu{
+    width: 100%;
+} */
+
+.col_6{
+    align-items: center;
+}
+
+
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
